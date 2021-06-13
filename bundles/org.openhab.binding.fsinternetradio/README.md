@@ -11,7 +11,7 @@ Successfully tested are internet radios:
  * [Silvercrest SMRS18A1, SMRS30A1, SMRS35A1, SIRD 14 C2, SIRD 14 D1](https://www.silvercrest-multiroom.de/en/products/stereo-internet-radio/)
  * [Roberts Stream 83i and 93i](https://www.robertsradio.com/uk/products/radio/smart-radio/)
  * [Auna Connect 150, Auna KR200](https://www.auna.de/Radios/Internetradios/)
- * [TechniSat DIGITRADIO 350 IR and 850](https://www.technisat.com/en_XX/DAB+-Radios-with-Internetradio/352-10996/)
+ * [TechniSat DIGITRADIO 10 IR, 350 IR and 850](https://www.technisat.com/en_XX/DAB+-Radios-with-Internetradio/352-10996/)
  * [TTMicro AS Pinell Supersound](https://www.ttmicro.no/radio)
  * [Revo SuperConnect](https://revo.co.uk/products/)
  * [Sangean WFR-28C](https://sg.sangean.com.tw/products/product_category.asp?cid=2)
